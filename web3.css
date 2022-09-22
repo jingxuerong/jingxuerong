@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+html{
+    background: url(a22.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box1>ul{
+    list-style: none;
+    position: fixed;
+    left: 0px;
+    top: 100px;
+}
+.box1>ul>li{
+    width: 80px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background: rgb(220, 223,254);
+     border: 1px solid lightcoral; 
+}
+.sg20 fieldset{
+    width:50px ;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+}
+.con{
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+}
+.box2{
+    text-align: center;
+}
+.sg3 img{
+    width: 200px;
+    height: 290px;
+}
+.sg3{
+    float: left;
+    margin-left:45px;
+}
+.sg4{
+    float: left;
+    width: 800px;
+    height: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.sg4 p{
+    text-align: center;
+}
+.sg5{
+    float: left;
+    margin-left: 60px;
+}
+.sg5 img{
+    width: 300px;
+    height: 200px;
+}
+.sg6{
+    float: left;
+    width: 800px;
+    height: 20px;
+    margin-top: 10px;
+}   
+.sg6 p{
+   text-align: center; 
+}
+.sg7{
+    float: left;
+}
+.sg7 img{
+    width: 278px;
+    height: 240px;
+}
+.sg8{
+    float: right;
+}
+.sg8 img{
+    width: 380px;
+    height: 240px;
+}
+.box4 p{
+text-align: center;
+}
+.sg7,.sg8{
+    margin-bottom: 20px;
+}
+.sg9 img{
+    width: 250px;
+    height: 250px;
+}
+.sg10 img{
+    width: 200px;
+    height: 250px;
+}
+.sg11 img{
+    width: 200px;
+    height: 250px;
+}
+.sg9,.sg10,.sg11{
+    float: left;
+    margin-left: 30px;
+}
+.sg12 img{
+    width: 180px;
+    height: 200px;
+}
+.sg13 img{
+   width: 180px;
+   height: 200px;
+}
+.sg14 img{
+    width: 200px;
+    height: 200px;
+}
+.sg12,.sg13,.sg14{
+    float: left;
+    margin-left: 53px;
+    margin-bottom: 20px
+}
+.v1 video{
+    width:200px ;
+    height: 200px;
+}
+.sg15,.sg16,.sg17{
+    float: left;
+    margin-left: 53px; 
+}
+.sg20{
+    width: 800px;
+    height: 110px;
+    /* background: darkblue; */
+    float: left;
+    margin-bottom: 20px;
+}
+.sg20 p{
+    text-align: center;
+}
+.sg1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box8{
+    position: fixed;
+    right: 0;
+    top: 100px;
+}
+.box7 textarea{
+    width: 800px;
+    margin: 0 auto;
+}
+/* .box7{
+    background: darkmagenta;
+} */
+.box2,.box3,.box4,.box5,.box7{
+    margin-bottom: 50px;
+}
